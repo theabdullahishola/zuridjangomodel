@@ -1,0 +1,2 @@
+# zuridjangomodel
+django model
